@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\raul8\\Desktop\\RepasGit\\RepasGit\\RepasGit.csproj": {}
+    "C:\\Users\\raul8\\Desktop\\2n\\Projecte\\RepasGit\\review_one\\review_one\\RepasGit\\RepasGit\\RepasGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\raul8\\Desktop\\RepasGit\\RepasGit\\RepasGit.csproj": {
+    "C:\\Users\\raul8\\Desktop\\2n\\Projecte\\RepasGit\\review_one\\review_one\\RepasGit\\RepasGit\\RepasGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\raul8\\Desktop\\RepasGit\\RepasGit\\RepasGit.csproj",
+        "projectUniqueName": "C:\\Users\\raul8\\Desktop\\2n\\Projecte\\RepasGit\\review_one\\review_one\\RepasGit\\RepasGit\\RepasGit.csproj",
         "projectName": "RepasGit",
-        "projectPath": "C:\\Users\\raul8\\Desktop\\RepasGit\\RepasGit\\RepasGit.csproj",
+        "projectPath": "C:\\Users\\raul8\\Desktop\\2n\\Projecte\\RepasGit\\review_one\\review_one\\RepasGit\\RepasGit\\RepasGit.csproj",
         "packagesPath": "C:\\Users\\raul8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\raul8\\Desktop\\RepasGit\\RepasGit\\obj\\",
+        "outputPath": "C:\\Users\\raul8\\Desktop\\2n\\Projecte\\RepasGit\\review_one\\review_one\\RepasGit\\RepasGit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\raul8\\AppData\\Roaming\\NuGet\\NuGet.Config",

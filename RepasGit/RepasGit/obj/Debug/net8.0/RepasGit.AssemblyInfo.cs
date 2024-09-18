@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepasGit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2c2dd03298e6d5584ec94fffeb9997bf1c80e15")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepasGit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepasGit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

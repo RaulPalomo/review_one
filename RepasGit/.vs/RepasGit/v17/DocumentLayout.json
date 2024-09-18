@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\raul8\\Desktop\\RepasGit\\",
+  "WorkspaceRootPath": "C:\\Users\\raul8\\Desktop\\2n\\Projecte\\RepasGit\\review_one\\review_one\\RepasGit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C7783E6-541F-4489-B594-9BA45681029D}|RepasGit\\RepasGit.csproj|c:\\users\\raul8\\desktop\\repasgit\\repasgit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C7783E6-541F-4489-B594-9BA45681029D}|RepasGit\\RepasGit.csproj|c:\\users\\raul8\\desktop\\2n\\projecte\\repasgit\\review_one\\review_one\\repasgit\\repasgit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C7783E6-541F-4489-B594-9BA45681029D}|RepasGit\\RepasGit.csproj|solutionrelative:repasgit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7783E6-541F-4489-B594-9BA45681029D}|RepasGit\\RepasGit.csproj|c:\\users\\raul8\\desktop\\2n\\projecte\\repasgit\\review_one\\review_one\\repasgit\\repasgit\\ciutat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7783E6-541F-4489-B594-9BA45681029D}|RepasGit\\RepasGit.csproj|solutionrelative:repasgit\\ciutat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ciutat.cs",
+              "DocumentMoniker": "C:\\Users\\raul8\\Desktop\\2n\\Projecte\\RepasGit\\review_one\\review_one\\RepasGit\\RepasGit\\Ciutat.cs",
+              "RelativeDocumentMoniker": "RepasGit\\Ciutat.cs",
+              "ToolTip": "C:\\Users\\raul8\\Desktop\\2n\\Projecte\\RepasGit\\review_one\\review_one\\RepasGit\\RepasGit\\Ciutat.cs",
+              "RelativeToolTip": "RepasGit\\Ciutat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:52:57.176Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\raul8\\Desktop\\RepasGit\\RepasGit\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\raul8\\Desktop\\2n\\Projecte\\RepasGit\\review_one\\review_one\\RepasGit\\RepasGit\\Program.cs",
               "RelativeDocumentMoniker": "RepasGit\\Program.cs",
-              "ToolTip": "C:\\Users\\raul8\\Desktop\\RepasGit\\RepasGit\\Program.cs",
+              "ToolTip": "C:\\Users\\raul8\\Desktop\\2n\\Projecte\\RepasGit\\review_one\\review_one\\RepasGit\\RepasGit\\Program.cs",
               "RelativeToolTip": "RepasGit\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBUAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T21:19:02.83Z",
               "EditorCaption": ""
