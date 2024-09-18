@@ -1,0 +1,14 @@
+C:\Users\raul8\Desktop\RepasGit\RepasGit\bin\Debug\net8.0\RepasGit.exe
+C:\Users\raul8\Desktop\RepasGit\RepasGit\bin\Debug\net8.0\RepasGit.deps.json
+C:\Users\raul8\Desktop\RepasGit\RepasGit\bin\Debug\net8.0\RepasGit.runtimeconfig.json
+C:\Users\raul8\Desktop\RepasGit\RepasGit\bin\Debug\net8.0\RepasGit.dll
+C:\Users\raul8\Desktop\RepasGit\RepasGit\bin\Debug\net8.0\RepasGit.pdb
+C:\Users\raul8\Desktop\RepasGit\RepasGit\obj\Debug\net8.0\RepasGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raul8\Desktop\RepasGit\RepasGit\obj\Debug\net8.0\RepasGit.AssemblyInfoInputs.cache
+C:\Users\raul8\Desktop\RepasGit\RepasGit\obj\Debug\net8.0\RepasGit.AssemblyInfo.cs
+C:\Users\raul8\Desktop\RepasGit\RepasGit\obj\Debug\net8.0\RepasGit.csproj.CoreCompileInputs.cache
+C:\Users\raul8\Desktop\RepasGit\RepasGit\obj\Debug\net8.0\RepasGit.dll
+C:\Users\raul8\Desktop\RepasGit\RepasGit\obj\Debug\net8.0\refint\RepasGit.dll
+C:\Users\raul8\Desktop\RepasGit\RepasGit\obj\Debug\net8.0\RepasGit.pdb
+C:\Users\raul8\Desktop\RepasGit\RepasGit\obj\Debug\net8.0\RepasGit.genruntimeconfig.cache
+C:\Users\raul8\Desktop\RepasGit\RepasGit\obj\Debug\net8.0\ref\RepasGit.dll
