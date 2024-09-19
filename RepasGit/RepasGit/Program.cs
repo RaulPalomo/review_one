@@ -2,7 +2,7 @@
 using RepasGit;
 class Program
 {
-    static void Main(string[] args)
+    public static void Main()
     {
         int nota1, nota2,nota3,resposta;
         const int MinNota = 6;
